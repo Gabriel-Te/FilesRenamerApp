@@ -10,6 +10,8 @@
 
   <ItemGroup>
     <Reference Include="FileRenamer">
+      <HintPath>..\lib\FileRenamer.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
