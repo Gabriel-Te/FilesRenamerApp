@@ -10,8 +10,6 @@
 
   <ItemGroup>
     <Reference Include="FileRenamer">
-      <HintPath>..\..\FileRenamer\FileRenamer\bin\Debug\net8.0\FileRenamer.dll</HintPath>
-    </Reference>
   </ItemGroup>
 
 </Project>
